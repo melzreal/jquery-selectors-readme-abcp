@@ -14,7 +14,7 @@ return $('#baby-ninja');
 }
 
 function divSelector(){
-return $('.pics')  
+return $('.pics div:first-child')  
 }
 
 function firstListItem(){
