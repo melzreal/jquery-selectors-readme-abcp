@@ -16,3 +16,7 @@ return $('#baby-ninja');
 function divSelector(){
   
 }
+
+function firstListItem(){
+  
+}
