@@ -8,3 +8,4 @@ function lastImageSelector(){
 
 return $('img:last');
 }
+
