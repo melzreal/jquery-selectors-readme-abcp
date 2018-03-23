@@ -18,5 +18,7 @@ return $('.pics');
 }
 
 function firstListItem(){
+  //return the first list item in the ul with the ID pic-list.
+  
   return $('pic-list li:first-child');
 }
